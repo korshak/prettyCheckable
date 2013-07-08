@@ -71,5 +71,8 @@
 }
 
 .prettyradio.disabled a {
+  background-position: 0 -120px;
+}
+.prettyradio.disabled a.checked {
   background-position: 0 -270px;
 }
